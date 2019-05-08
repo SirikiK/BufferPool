@@ -10,7 +10,7 @@ using namespace std ;
 void ID()
 {
 	cout << "		=================================================== " <<endl ;
-	cout << "	  			SIRIKI KONE	A00166549"		  << endl ;
+	cout << "	  			SIRIKI KONE	"		  << endl ;
 	cout << "			PROJET DE SIMULATION D'UN BASSIN DE TAMPON"	<< endl ;
 	cout << "		=================================================== " <<endl<<endl ;
 }
